@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cebe8d9-516b-4584-8153-a447a5a14204" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/calculator_brain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/components/bottom_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/components/icon_content.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/components/reusable_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/components/round_icon_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/screens/input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi-calculator/lib/screens/results_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmi-calculator/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmi-calculator/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmi-calculator/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bmi-calculator/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/destini/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/destini/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini/lib/story.dart" beforeDir="false" afterPath="$PROJECT_DIR$/destini/lib/story.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini/lib/story_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/destini/lib/story_brain.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicee/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/dicee/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicee/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicee/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/dicee/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magic-8-ball/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magic-8-ball/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/magic-8-ball/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler/lib/quiz_brain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler/lib/quiz_brain.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qLJY7Uo1af3PfoXl96rndHXvbh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cebe8d9-516b-4584-8153-a447a5a14204" name="Default Changelist" comment="" />
+      <created>1616852981246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616852981246</updated>
+    </task>
+    <servers />
   </component>
 </project>

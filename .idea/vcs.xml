@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bmi-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/clima" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/destini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dicee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/magic-8-ball" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quizzler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xylophone" vcs="Git" />
+  </component>
+</project>
